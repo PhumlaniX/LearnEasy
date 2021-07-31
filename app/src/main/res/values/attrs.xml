@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="pageBackground" format="reference" />
+    <attr name="textLarge" format="reference" />
+    <attr name="textSubheader" format="reference" />
+    <attr name="textRegular" format="reference" />
+    <attr name="whiteBackground" format="reference" />
+    <attr name="button" format="reference" />
+    <attr name="whiteSmoke" format="color" />
+    <attr name="colorPrimaryVariant" format="color"/>
+    <attr name="colorOnPrimary" format="color" />
+    <attr name="colorSecondary" format="color" />
+    <attr name="colorSecondaryVariant" format="color" />
+    <attr name="colorOnSecondary" format="color" />
+</resources>
